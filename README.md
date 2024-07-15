@@ -18,7 +18,7 @@ sentence-transformers (pip install sentence-transformers)
 
 tensorflow (pip install tensorflow)
 
-PRAAT toolkit (https://www.fon.hum.uva.nl/praat/download_win.html)
+PRAAT toolkit (Download from https://www.fon.hum.uva.nl/praat/download_win.html)
 
 TRILL vectors model (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
