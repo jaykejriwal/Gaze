@@ -7,6 +7,8 @@ We used the Gaze Aversion corpus to study and extract lexical, syntactic, semant
 The dataset is available upon request by mailing it to the original creators of the dataset 
 (https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1127626/full)
 
+The input folder provides examples of sample files needed for processing.
+ 
 ## Required Software
 textgrid (Install textgrid from https://github.com/kylebgorman/textgrid)
 
