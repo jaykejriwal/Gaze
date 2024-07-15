@@ -22,6 +22,10 @@ PRAAT toolkit (Download from https://www.fon.hum.uva.nl/praat/download_win.html)
 
 TRILL vectors model (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
+Stanfor CoreNLP (https://github.com/stanfordnlp/CoreNLP)
+
+Stanza (pip install stanza)
+
 ## Execution instruction
 A Jupyter Notebook file is uploaded. It presents a step-by-step procedure for extracting features and measuring entrainment.
 
