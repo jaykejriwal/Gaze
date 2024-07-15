@@ -24,7 +24,7 @@ PRAAT toolkit (Download from https://www.fon.hum.uva.nl/praat/download_win.html)
 
 TRILL vectors model (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
-Stanfor CoreNLP (https://github.com/stanfordnlp/CoreNLP)
+Stanfor CoreNLP (https://github.com/stanfordnlp/CoreNLP) (Download from https://drive.google.com/file/d/1iQlFl9laJ1bK6qziqLqKfqcT_MRdNN62/view?usp=sharing)
 
 Stanza (pip install stanza)
 
